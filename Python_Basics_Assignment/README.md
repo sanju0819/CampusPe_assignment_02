@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐍 CampusPE Python Basics Assignment
+#  CampusPE Python Basics Assignment
 
 ### Python Programming Solutions — Sanjan Gowda N J
 
